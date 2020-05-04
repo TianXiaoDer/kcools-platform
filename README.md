@@ -55,10 +55,3 @@ https://shop.51shop.ink/demo/ 用户名:admin  密码:admin
 ![菜单](https://images.gitee.com/uploads/images/2019/0223/145541_2a1e5aba_1293644.png "菜单1")
 
 本项目来自码云上platform-wechat-mall（https://gitee.com/fuyang_lipengjun/platform）项目。
-我们修复了所有发现的bug，还有自己的新功能增加。
-后面会有不断的更新新功能。
-
-# 如果需软件定制：请加微信（lalage1983）、（zhs_18817251180）
-# 如果你喜欢我们的开源请点个赞是对我们的奖励
-# 如果你喜欢我们的开源请点个赞是对我们的奖励
-# 如果你喜欢我们的开源请点个赞是对我们的奖励
