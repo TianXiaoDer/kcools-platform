@@ -320,9 +320,4 @@ public class HttpUtil {
         HttpUtil.loginURL = loginURL;
     }
 
-    public static void main(String[] args) throws MalformedURLException {
-        java.net.URL url = new java.net.URL("http://blog.csdn.net/zhujianlin1990");
-        System.out.println(url.getHost());
-        System.out.println(url.getPort());
-    }
 }

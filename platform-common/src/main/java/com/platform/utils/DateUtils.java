@@ -157,10 +157,4 @@ public class DateUtils {
     }
 
 
-    public static void main(String[] args) {
-    	 String d= compare_date("2995-11-12 15:21", "1999-12-11 09:59");
-         System.out.println("i=="+d);
-    }
-    
-    
 }

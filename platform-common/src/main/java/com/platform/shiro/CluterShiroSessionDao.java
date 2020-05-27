@@ -13,6 +13,7 @@ import java.io.Serializable;
  * @author lipengjun
  * @date 2018年07月31日 上午14:50
  */
+//TODO 登录的时候会出现登录成功后又跳转到登录页,授权失败 切换为extends AbstractSessionDAO
 public class CluterShiroSessionDao extends EnterpriseCacheSessionDAO {
 
     @Override
