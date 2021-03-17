@@ -1,5 +1,5 @@
 当前版本:2.0.1 <br/>
-官方网站：https://shop.51shop.ink/demo/<br/>
+
 # 技术框架
 * 核心框架：Spring Framework 4
 * 安全框架：Apache Shiro 1.2
@@ -25,8 +25,8 @@
 
 
 # 快速体验
-* 将Open-Shop项目源码通过maven形式导入eclipse；
-* 导入Open-Shop.sql数据文件,注意：数据库使用utf-8编码； 
+* 将项目源码通过maven形式导入eclipse；
+* 导入.sql数据文件,注意：数据库使用utf-8编码； 
 * 修改platform-admin/platform.properties文件中的数据库设置参数；
 * tomcat中加载platform-framework项目
 * 访问后台地址：http://ip|域名/项目发布名/
@@ -39,19 +39,3 @@
 * 填写你的项目名称；
 * 进入之后修改config文件夹里的api.js文件，把NewApiRootUrl改为你后台接口地址即刻运行。
 
-# 小程序演示地址
-![小程序演示地址](https://images.gitee.com/uploads/images/2019/0316/170751_dac85a7a_81788.jpeg "嗨街二号小程序.jpg")
-# 后端演示地址
-https://shop.51shop.ink/demo/ 用户名:admin  密码:admin
-
-# 小程序演示效果
-![](https://images.gitee.com/uploads/images/2019/0625/104952_f9964aa6_1293644.png "前段演示")
-
-# 后端登录界面
-![登录界面](https://images.gitee.com/uploads/images/2019/0223/145541_ceb02a32_1293644.jpeg "登录，小程序商城")
-# 主界面
-![主界面](https://images.gitee.com/uploads/images/2019/0223/145546_1c4fc356_1293644.jpeg "主界面，插件商城")
-# 菜单
-![菜单](https://images.gitee.com/uploads/images/2019/0223/145541_2a1e5aba_1293644.png "菜单1")
-
-本项目来自码云上platform-wechat-mall（https://gitee.com/fuyang_lipengjun/platform）项目。
